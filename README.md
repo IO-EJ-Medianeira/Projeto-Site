@@ -4,9 +4,10 @@ Primeiro projeto a ser realizado dentro da empresa júnior
 Buscar ferramentas e tecnologias a serem utilizadas
 ---------
 - [ ] Node.JS
-- [ ] React (native mobile)
+- [ ] React (native, mobile)
 - [ ] WordPress
-- [ ] Flutter
+- [ ] htlm, CSS e JavaScrip (na raça)
+- [ ] Wix
 
 Criar escopo do site
 ----------
