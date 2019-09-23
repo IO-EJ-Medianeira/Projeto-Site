@@ -4,11 +4,20 @@ Primeiro projeto a ser realizado dentro da empresa júnior
 Buscar ferramentas e tecnologias a serem utilizadas
 ---------
 1. htlm, CSS e JavaScrip (na raça)
+  - Criar um site estático para a divulgação inicial
 2. Angular e JavaScript
-3. Node.JS
-4. React (native, mobile)
-5. GraficQL
-6. Flutter
+3. Node.JS, React (native, mobile)
+  - Stack forte no mercados
+  - Node.JS pode ser utilizado para construção do Backend
+  - React cuida da parte de comunicação
+  - Pode ser utilizado com o GraficQL
+4. GraficQL
+  - Sistema de comuicação desenvolvido pelo Facebook
+  - Comunicação Front/Back
+  - Reduz a carga de código do Backend atribuido mais funções para o front
+5. Flutter
+  - Framework para desenvolvimento Mobile
+  - Existe a possibilidade de receber funções para web
 
 Criar escopo do site
 ----------
