@@ -37,3 +37,6 @@ Criar escopo do site
 
 Dividir as funções da equipe
 ---------
+
+# Tutorialzinho pra usar o github com server pro site estático
+https://medium.com/trainingcenter/subindo-seu-projeto-front-github-pages-1b61e2e1c447
